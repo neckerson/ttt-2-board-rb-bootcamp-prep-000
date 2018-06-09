@@ -3,7 +3,7 @@
 
 board = []
 
-9.times do |x|
+9.times do
   board << " "
 end
 
